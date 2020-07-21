@@ -1,6 +1,6 @@
 # Console application using Microsoft Graph.
 
-## It that can get all events from calendar or just write you token
+## It that can get all events from calendar or just write your token to console
 
 # How set up and run
 
